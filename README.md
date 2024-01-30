@@ -1,2 +1,2 @@
-# linktree
-My own custom linktree 🎄
+# Advertisement
+My own custom Advertisement 🎄
